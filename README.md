@@ -7,14 +7,25 @@ https://github.com/alitskevich/front-end
 
 ### `this.update`
 
-## Flow managment
-### `if` directive
-
-### `each` directive
-
 ## Life-cycle
 ### `onInit` hook
 
 ### `onDone` hook
 
 ### finalizers
+
+# Templating
+
+## Special Tags
+### `<then></then>`
+
+### `<else></else>`
+
+### `<block></block>`
+
+### `<children></children>`
+
+## Flow managment
+### `if` directive
+
+### `each` directive
