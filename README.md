@@ -25,7 +25,11 @@ https://github.com/alitskevich/front-end
 
 ### `<children></children>`
 
+### `<transclude />`
+
 ## Flow managment
 ### `if` directive
 
 ### `each` directive
+
+## Placeholders
